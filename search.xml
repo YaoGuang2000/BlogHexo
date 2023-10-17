@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>这是我的第一篇文章</title>
+      <link href="/posts/d1db7794.html"/>
+      <url>/posts/d1db7794.html</url>
+      
+        <content type="html"><![CDATA[<p>这里是文章内容</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Markdown语法与外挂标签写法汇总</title>
       <link href="/posts/2013454d.html"/>
       <url>/posts/2013454d.html</url>
