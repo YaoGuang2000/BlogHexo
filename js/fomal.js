@@ -584,7 +584,7 @@ function owoBig() {
         owo_body = '';
       if (dom.length == 2 && dom[1].className == 'OwO-body') owo_body = dom[1];
       // 如果需要在评论内容中启用此功能请解除下面的注释
-      // else if (dom.length == 1 && dom[0].className == 'tk-comment') owo_body = dom[0];
+       //else if (dom.length == 1 && dom[0].className == 'tk-comment') owo_body = dom[0];
       else continue;
 
       // 禁用右键（手机端长按会出现右键菜单，为了体验给禁用掉）
@@ -1282,7 +1282,7 @@ function share_() {
   try {
     // 截取标题
     var title = document.title;
-    var subTitle = title.endsWith("| Fomalhaut🥝") ? title.substring(0, title.length - 14) : title;
+    var subTitle = title.endsWith("| BaiZhantang🥝") ? title.substring(0, title.length - 14) : title;
     navigator.clipboard.writeText('白展堂🥝的站内分享\n标题：' + subTitle + '\n链接：' + url + '\n欢迎来访！🍭🍭🍭');
     new Vue({
       data: function () {
@@ -3174,10 +3174,10 @@ if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(https://sourcebucket.s3.bitiful.net/img/home_bg.webp);
-    --darkmode-bg:url(https://baizhantangblog.s3.bitiful.net/pcnight.webp);
-    --mobileday-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/snow.webp);
-    --mobilenight-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/mb8.webp);
+    --default-bg: url(https://baizhantangblog.s3.bitiful.net/Blog/Image/pddaybg.webp);
+    --darkmode-bg:url(https://baizhantangblog.s3.bitiful.net/Blog/Image/pcNightBG.webp);
+    --mobileday-bg: url(https://baizhantangblog.s3.bitiful.net/Blog/Image/mbdaybg.webp);
+    --mobilenight-bg: url(https://baizhantangblog.s3.bitiful.net/Blog/Image/mbnightbg.webp);
   }`;
 }
 // 切换背景主函数
