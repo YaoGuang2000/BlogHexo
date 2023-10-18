@@ -73,7 +73,7 @@ $.ajax({
   type: 'get',
   url: 'https://apis.map.qq.com/ws/location/v1/ip',
   data: {
-    key: '',  // 这里要写你的KEY!!!
+    key: 'AUKBZ-7MOE3-RUJ3J-OBZDU-QZVPH-4PBFU',  // 这里要写你的KEY!!!
     output: 'jsonp',
   },
   dataType: 'jsonp',
@@ -584,7 +584,7 @@ function owoBig() {
         owo_body = '';
       if (dom.length == 2 && dom[1].className == 'OwO-body') owo_body = dom[1];
       // 如果需要在评论内容中启用此功能请解除下面的注释
-       //else if (dom.length == 1 && dom[0].className == 'tk-comment') owo_body = dom[0];
+      // else if (dom.length == 1 && dom[0].className == 'tk-comment') owo_body = dom[0];
       else continue;
 
       // 禁用右键（手机端长按会出现右键菜单，为了体验给禁用掉）
