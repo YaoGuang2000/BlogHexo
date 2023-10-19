@@ -7091,8 +7091,9 @@ div#archive {
 [data-theme="dark"] .tk-content::before {
   border-right: 15px solid #000;
 }
+/*夜间模式气泡配色*/
 [data-theme="dark"] .tk-master .tk-content {
-  background: #000;
+  background: #8d6ca3;
   color: #fff;
 }
 [data-theme="dark"] .tk-master .tk-content a {
