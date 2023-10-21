@@ -4017,7 +4017,7 @@ h1.page-title + .tag-cloud-list {
   -ms-filter: none;
   filter: none;
 }
-#nav #blog_name {
+#nav #none_space {
   -webkit-box-flex: 1;
   -moz-box-flex: 1;
   -o-box-flex: 1;
@@ -7244,7 +7244,7 @@ h6::before {
   color: #fb7061;
   margin-left: -1.35rem;
   font-size: 1.1rem;
-  margin-top: -0.12rem;
+  margin-top: -0.25rem;
 }
 #content-inner.layout h3::before {
   color: #ffbf00;
