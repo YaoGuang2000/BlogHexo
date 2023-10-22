@@ -6,7 +6,7 @@
   <link href="https://www.52bzt.cn/atom.xml" rel="self"/>
   
   <link href="https://www.52bzt.cn/"/>
-  <updated>2023-10-18T06:37:47.055Z</updated>
+  <updated>2023-10-21T21:08:49.179Z</updated>
   <id>https://www.52bzt.cn/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="https://www.52bzt.cn/posts/d1db7794.html"/>
     <id>https://www.52bzt.cn/posts/d1db7794.html</id>
     <published>2023-10-16T14:50:02.000Z</published>
-    <updated>2023-10-18T06:37:47.055Z</updated>
+    <updated>2023-10-21T21:08:49.179Z</updated>
     
-    <content type="html"><![CDATA[<p>这里是文章内容</p>]]></content>
+    <content type="html"><![CDATA[<p><a href="/box/gallery/photo/p1.html">这里是文章内容</a><br><a class="gallery_link" href="/box/gallery/" data-pjax-state=""><font size="5"><mark class="hl-label green">🚙返回画廊大厅</mark></font></a></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;这里是文章内容&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;/box/gallery/photo/p1.html&quot;&gt;这里是文章内容&lt;/a&gt;&lt;br&gt;
+&lt;a class=&quot;gallery_link&quot; href=&quot;/box/gallery/&quot; data-pjax-state=&quot;&quot;&gt;&lt;font size=&quot;5&quot;&gt;&lt;mark</summary>
       
     
     

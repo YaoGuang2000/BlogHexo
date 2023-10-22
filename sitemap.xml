@@ -4,6 +4,51 @@
   <url>
     <loc>https://www.52bzt.cn/site/time/index.html</loc>
     
+    <lastmod>2023-10-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.52bzt.cn/box/gallery/wallpaper/p3.html</loc>
+    
+    <lastmod>2023-10-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.52bzt.cn/box/gallery/wallpaper/p4.html</loc>
+    
+    <lastmod>2023-10-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.52bzt.cn/box/gallery/wallpaper/p2.html</loc>
+    
+    <lastmod>2023-10-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.52bzt.cn/box/gallery/wallpaper/index.html</loc>
+    
+    <lastmod>2023-10-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.52bzt.cn/posts/d1db7794.html</loc>
+    
     <lastmod>2023-10-21</lastmod>
     
     <changefreq>monthly</changefreq>
@@ -101,15 +146,6 @@
   </url>
   
   <url>
-    <loc>https://www.52bzt.cn/posts/d1db7794.html</loc>
-    
-    <lastmod>2023-10-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.52bzt.cn/tags/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -119,7 +155,7 @@
   </url>
   
   <url>
-    <loc>https://www.52bzt.cn/box/nav/index.html</loc>
+    <loc>https://www.52bzt.cn/box/animation/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -128,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://www.52bzt.cn/box/animation/index.html</loc>
+    <loc>https://www.52bzt.cn/box/nav/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -175,7 +211,7 @@
 
   <url>
     <loc>https://www.52bzt.cn/</loc>
-    <lastmod>2023-10-21</lastmod>
+    <lastmod>2023-10-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -183,14 +219,14 @@
   
   <url>
     <loc>https://www.52bzt.cn/tags/Markdown/</loc>
-    <lastmod>2023-10-21</lastmod>
+    <lastmod>2023-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.52bzt.cn/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
-    <lastmod>2023-10-21</lastmod>
+    <lastmod>2023-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -199,7 +235,7 @@
   
   <url>
     <loc>https://www.52bzt.cn/categories/%E6%BC%94%E7%A4%BA/</loc>
-    <lastmod>2023-10-21</lastmod>
+    <lastmod>2023-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
